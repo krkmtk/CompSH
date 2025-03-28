@@ -13,4 +13,3 @@ module half_add (S, C, A, B);
             
 
 endmodule
-
